@@ -4,9 +4,9 @@ Coder la fonction printf en c avec mon propre code
 Ce projet consiste à recoder la fonction printf en langage C, offrant ainsi une implémentation personnalisée de cette fonction essentielle pour l'affichage de données formatées. La fonction printf est largement utilisée en programmation C pour formater et afficher des données, et cette implémentation vise à fournir une compréhension approfondie de son fonctionnement interne.
 
 # Exemple d'utilisations
-Afficher un entier: ft_printf("%d", <votre entier>);
-Afficher un string: ft_printf("%s", <votre string>);
-Afficher l'adresse: ft_printf("%x", <votre variables>);
+Afficher un entier: ft_printf("%d", votre_entier)\n;
+Afficher un string: ft_printf("%s", votre_string)\n;
+Afficher l'adresse: ft_printf("%x", votre_variables)\n;
 etc...
 
 # Documentations
