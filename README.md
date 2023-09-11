@@ -10,7 +10,9 @@ Afficher l'adresse: ft_printf("%x", votre_variables);<br>
 etc...
 
 # Documentations
-Vous trouverez plus d'informations sur: <br>https://fr.wikipedia.org/wiki/Printf <br>https://koor.fr/C/cstdio/fprintf.wp
+Vous trouverez plus d'informations sur: <br>
+* https://fr.wikipedia.org/wiki/Printf <br>
+* https://koor.fr/C/cstdio/fprintf.wp
 
 # Auteurs
 Ce projet est réalisé par PEZONGO Mickael, voir mon linkedin https://www.linkedin.com/in/mpezongo <br>
